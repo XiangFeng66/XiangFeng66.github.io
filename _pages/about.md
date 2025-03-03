@@ -17,22 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a visiting student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505) from [Medical Big Data Lab](http://sribd.cn/znyy/medical), [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
+I'm currently a visiting student at [4DV Lab](https://4dvlab.github.io/) from [Information Science and Technology](https://sist.shanghaitech.edu.cn/), [Shanghai Tech University](https://www.shanghaitech.edu.cn/) and fortunate to be advised by [Prof. Yuexin Ma](https://yuexinma.me/). I was previously advised by [Prof. Jiajun Ding](https://faculty.hdu.edu.cn/jsjxy/djj/main.htm), [Prof. Feiwei Qin](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) and [Prof. Zhenzhong Kuang](https://computer.hdu.edu.cn/2018/0515/c1357a69052/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm).
 
-My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition and AI for Medical: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
+My research interest includes Computer Vision, Embodied AI, Neural Radiation Field and 3D Gaussian Splatting.
 
-<a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-[![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
-[![](https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-7BB32E?style=flat&logo=wechat&logoColor=white)](../images/wechat.png)
+<a href='https://scholar.google.com/citations?user=W7EoSckAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+[![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/XiangFeng66)
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2025.09 - 2030.06*, Doctor of Philosophy student: Biomedical Engineering, Tsinghua University, Beijing, China.
+- *2025.09 - 2028.06*, Master, ShanghaiTech University, Shanghai, China
 - *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
-
-# 💻 Internships
-- *2024.05 - Present*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen)
-- *2021.09 - Present*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
 - *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
@@ -41,7 +36,6 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
-- *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
 
 # 📝 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
