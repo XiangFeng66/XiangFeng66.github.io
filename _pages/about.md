@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a visiting student at [4DV Lab](https://4dvlab.github.io/) from [Information Science and Technology](https://sist.shanghaitech.edu.cn/), [Shanghai Tech University](https://www.shanghaitech.edu.cn/) and fortunate to be advised by [Prof. Yuexin Ma](https://yuexinma.me/). I was previously advised by [Prof. Jiajun Ding](https://faculty.hdu.edu.cn/jsjxy/djj/main.htm), [Prof. Feiwei Qin](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) and [Prof. Zhenzhong Kuang](https://computer.hdu.edu.cn/2018/0515/c1357a69052/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm).
+I'm currently a visiting student at [4DV Lab](https://4dvlab.github.io/) from [Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/) and fortunate to be advised by [Prof. Yuexin Ma](https://yuexinma.me/). I was previously advised by [Prof. Jiajun Ding](https://faculty.hdu.edu.cn/jsjxy/djj/main.htm), [Prof. Feiwei Qin](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) and [Prof. Zhenzhong Kuang](https://computer.hdu.edu.cn/2018/0515/c1357a69052/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm).
 
-My research interest includes Computer Vision, Embodied AI, Neural Radiation Field and 3D Gaussian Splatting.
+My research interest includes Computer Vision, Embodied AI, Neural Radiation Field, and 3D Gaussian Splatting.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
 - *2025.09 - 2028.06*, Master, ShanghaiTech University, Shanghai, China
