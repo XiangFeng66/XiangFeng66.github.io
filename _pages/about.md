@@ -24,7 +24,7 @@ My research interest includes Computer Vision, Embodied AI, Neural Radiation Fie
 
 # 📖 Educations
 - *2025.09 - 2028.06*, Master, ShanghaiTech University, Shanghai, China
-- *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
+- *2021.09 - 2025.06*, Undergraduate student, Hangzhou Dianzi University, Hangzhou, China. 
 
 # 🔥 News
 - *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
