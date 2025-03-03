@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifei Chen"
+title                    : "Xiang Feng"
 description              : Specializing in Artificial Intelligence for Medical.
-repository               : "JustlfC03/JustlfC03.github.io"
+repository               : "XiangFeng66/XiangFeng66.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifei Chen"
+  name             : "Xiang Feng"
   avatar           : "images/profile.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "ShanghaiTech University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN"
-  email            : "justlfc03@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=W7EoSckAAAAJ&hl=zh-CN"
+  email            : "xiangfengmr@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JustlfC03"
+  github           : "XiangFeng66"
   google_plus      :
   keybase          :
   instagram        :
