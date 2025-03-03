@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Feng"
+description              : Major in Computer Science, Master student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. I am interested in Embodied AI, 3D Gaussian Splatting.
 repository               : "XiangFeng66/XiangFeng66.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +25,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
-  employer         : "Major in Computer Science, Master student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. I am interested in Embodied AI, 3D Gaussian Splatting."
+  employer         : 
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=W7EoSckAAAAJ&hl=zh-CN"
   email            : "xiangfengmr@gmail.com"
